@@ -7,6 +7,6 @@ front-end-resources/front-end.js
 .eslintcache
 cdk.context.json
 cdk-outputs.json
-!/back-end-resources/lambda-layer/nodejs/node_modules/
+!/back-end-resources/lambda-layer/**
 .DS_Store
 build/
